@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Z#eu(#xKKdtxhJ^K16;b" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Z#eu(#xKKdtxhJ^K16;b" x="0" y="0"><statement name="HANDLER"><block type="gameOver2" id="{@-7o,=92O{|8jdUrN}G"><value name="win"><shadow type="toggleWinLose" id="0-gcT`JQHdxZc`1)z*UI"><field name="win">false</field></shadow></value></block></statement></block></xml>
